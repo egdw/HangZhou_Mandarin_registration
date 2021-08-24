@@ -1,0 +1,6 @@
+tesseract-ocr
+pytesseract
+pillow
+easyocr
+requests
+BeautifulSoup4

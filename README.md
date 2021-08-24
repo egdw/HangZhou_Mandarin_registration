@@ -18,6 +18,15 @@ requests
 
 BeautifulSoup4
 
+tesseract-ocr
+
+pytesseract
+
+## 相关文件
+
+main.py 的利用easyocr进行验证码识别，但是体积大。
+main_tesseract.py利用tesseract进行验证码识别，体积较小。
+
 ## 功能
 
 * 自动识别验证码
